@@ -1,70 +1,38 @@
 {
   "schemaVersion": 1,
-  "items": [
-    {
-      "id": "bd7009ac-55b7-4856-8cd0-2f7af1d07ea2",
-      "name": "arroz",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1793657042034
-    },
+  "items": [],
+  "deleted": [
     {
       "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
-      "name": "banana",
-      "ok": false,
-      "count": 0,
-      "price": 0,
-      "modifiedAt": 1793657034020
+      "modifiedAt": 1793657047477
     },
     {
       "id": "sample-beans",
-      "name": "Beans",
-      "ok": false,
-      "count": 0,
-      "price": 8,
-      "modifiedAt": 1793572549366
+      "modifiedAt": 1793657048990
     },
     {
       "id": "sample-bread",
-      "name": "Bread",
-      "ok": false,
-      "count": 0,
-      "price": 7,
-      "modifiedAt": 1793572549366
+      "modifiedAt": 1793657050370
     },
     {
       "id": "c0bcffeb-9739-43d3-8254-02db75239170",
-      "name": "dasd",
-      "ok": false,
-      "count": 2,
-      "price": 2,
-      "modifiedAt": 1793655617113
+      "modifiedAt": 1793657051830
     },
     {
       "id": "b2e2b3e9-9f54-462b-95dc-bb5324830e2d",
-      "name": "gggggg",
-      "ok": true,
-      "count": 1,
-      "price": 5,
-      "modifiedAt": 1793655607991
+      "modifiedAt": 1793657053087
+    },
+    {
+      "id": "bd7009ac-55b7-4856-8cd0-2f7af1d07ea2",
+      "modifiedAt": 1793657055210
     },
     {
       "id": "sample-milk",
-      "name": "Milk",
-      "ok": true,
-      "count": 1,
-      "price": 5.5,
-      "modifiedAt": 1793655592157
+      "modifiedAt": 1793657056675
     },
     {
       "id": "sample-rice",
-      "name": "Rice",
-      "ok": true,
-      "count": 0,
-      "price": 10.5,
-      "modifiedAt": 1793655594608
+      "modifiedAt": 1793657057978
     }
-  ],
-  "deleted": []
+  ]
 }
