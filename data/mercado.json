@@ -1,6 +1,15 @@
 {
   "schemaVersion": 1,
-  "items": [],
+  "items": [
+    {
+      "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
+      "name": "banana",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1793657066028
+    }
+  ],
   "deleted": [
     {
       "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
