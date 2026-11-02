@@ -1,6 +1,15 @@
 {
   "schemaVersion": 1,
-  "items": [],
+  "items": [
+    {
+      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
+      "name": "batata doce",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1793657141487
+    }
+  ],
   "deleted": [
     {
       "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
