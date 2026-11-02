@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
+      "name": "banana",
+      "ok": false,
+      "count": 13,
+      "price": 0,
+      "modifiedAt": 1793654204399
+    },
+    {
       "id": "sample-beans",
       "name": "Beans",
       "ok": false,
