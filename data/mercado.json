@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
+      "name": "abobrinha",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1793657147789
+    },
+    {
       "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
       "name": "batata doce",
       "ok": false,
