@@ -16,20 +16,36 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1793657141487
+    },
+    {
+      "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
+      "name": "requeijão",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1793724121130
     }
   ],
   "deleted": [
     {
-      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
-      "modifiedAt": 1793657047477
+      "id": "sample-rice",
+      "modifiedAt": 1793657057978
     },
     {
       "id": "sample-beans",
       "modifiedAt": 1793657048990
     },
     {
+      "id": "sample-milk",
+      "modifiedAt": 1793657056675
+    },
+    {
       "id": "sample-bread",
       "modifiedAt": 1793657050370
+    },
+    {
+      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
+      "modifiedAt": 1793657047477
     },
     {
       "id": "c0bcffeb-9739-43d3-8254-02db75239170",
@@ -42,14 +58,6 @@
     {
       "id": "bd7009ac-55b7-4856-8cd0-2f7af1d07ea2",
       "modifiedAt": 1793657055210
-    },
-    {
-      "id": "sample-milk",
-      "modifiedAt": 1793657056675
-    },
-    {
-      "id": "sample-rice",
-      "modifiedAt": 1793657057978
     },
     {
       "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
