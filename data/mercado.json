@@ -26,6 +26,14 @@
       "modifiedAt": 1793725802660
     },
     {
+      "id": "5fd098eb-5904-4b79-910b-4e8e692d8425",
+      "name": "pão sanduíche",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1793740322375
+    },
+    {
       "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
       "name": "requeijão",
       "ok": false,
