@@ -2,22 +2,6 @@
   "schemaVersion": 1,
   "items": [
     {
-      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
-      "name": "abobrinha",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1793657147789
-    },
-    {
-      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
-      "name": "batata doce",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1793657141487
-    },
-    {
       "id": "c413c588-7728-422a-a81e-ce7cc185468a",
       "name": "cebola",
       "ok": false,
@@ -60,24 +44,16 @@
   ],
   "deleted": [
     {
-      "id": "sample-rice",
-      "modifiedAt": 1793657057978
+      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
+      "modifiedAt": 1793657047477
     },
     {
       "id": "sample-beans",
       "modifiedAt": 1793657048990
     },
     {
-      "id": "sample-milk",
-      "modifiedAt": 1793657056675
-    },
-    {
       "id": "sample-bread",
       "modifiedAt": 1793657050370
-    },
-    {
-      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
-      "modifiedAt": 1793657047477
     },
     {
       "id": "c0bcffeb-9739-43d3-8254-02db75239170",
@@ -92,12 +68,28 @@
       "modifiedAt": 1793657055210
     },
     {
+      "id": "sample-milk",
+      "modifiedAt": 1793657056675
+    },
+    {
+      "id": "sample-rice",
+      "modifiedAt": 1793657057978
+    },
+    {
       "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
       "modifiedAt": 1793657076838
     },
     {
       "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
       "modifiedAt": 1793880002921
+    },
+    {
+      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
+      "modifiedAt": 1793905982791
+    },
+    {
+      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
+      "modifiedAt": 1793905984530
     }
   ]
 }
