@@ -48,14 +48,6 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1793747824742
-    },
-    {
-      "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
-      "name": "requeijão",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1793724121130
     }
   ],
   "deleted": [
@@ -94,6 +86,10 @@
     {
       "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
       "modifiedAt": 1793657076838
+    },
+    {
+      "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
+      "modifiedAt": 1793880002921
     }
   ]
 }
