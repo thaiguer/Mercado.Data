@@ -26,6 +26,14 @@
       "modifiedAt": 1793725802660
     },
     {
+      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
+      "name": "ovos",
+      "ok": false,
+      "count": 4,
+      "price": 0,
+      "modifiedAt": 1793880035395
+    },
+    {
       "id": "5fd098eb-5904-4b79-910b-4e8e692d8425",
       "name": "pão sanduíche",
       "ok": false,
