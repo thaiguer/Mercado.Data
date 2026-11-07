@@ -18,76 +18,12 @@
       "modifiedAt": 1794048165728
     },
     {
-      "id": "ce98c6e3-cf8c-41cc-b0c0-b633e811bad5",
-      "name": "DETERGENTE",
-      "ok": true,
-      "count": 4,
-      "price": 2.19,
-      "modifiedAt": 1794062678221
-    },
-    {
-      "id": "1ab1f333-0c28-4861-b8ba-6b1fba10d3e1",
-      "name": "DOCE DE LEITE",
-      "ok": true,
-      "count": 1,
-      "price": 7.9,
-      "modifiedAt": 1794065129471
-    },
-    {
-      "id": "76d9eda7-7127-4911-a607-7e7486c35298",
-      "name": "ERVA",
-      "ok": true,
-      "count": 2,
-      "price": 6.9,
-      "modifiedAt": 1794064688996
-    },
-    {
-      "id": "a89f9ce0-bacf-4042-9543-2a578072a42e",
-      "name": "ESPONJA PACOTE",
-      "ok": true,
-      "count": 1,
-      "price": 4.99,
-      "modifiedAt": 1794063182095
-    },
-    {
-      "id": "bc7f196a-864f-4683-8f5a-baf700c31ce8",
-      "name": "EXTRATO DE TOMATE",
-      "ok": true,
-      "count": 3,
-      "price": 2.39,
-      "modifiedAt": 1794063991687
-    },
-    {
       "id": "6ec4ca1a-d3ea-47c8-bb0f-3b0d7f4aed9e",
       "name": "FARINHA",
       "ok": false,
       "count": 1,
       "price": 0,
       "modifiedAt": 1794048360319
-    },
-    {
-      "id": "41e59bad-4803-453f-add0-86e99184c4e9",
-      "name": "FAROFA",
-      "ok": true,
-      "count": 1,
-      "price": 4.5,
-      "modifiedAt": 1794063763684
-    },
-    {
-      "id": "df460f6f-83b0-4128-a968-1e7d3a6e0a65",
-      "name": "FERIMENTO BIOLÓGICO",
-      "ok": true,
-      "count": 1,
-      "price": 10,
-      "modifiedAt": 1794064519856
-    },
-    {
-      "id": "0c79693a-bcc7-4227-8d2a-d32532cda003",
-      "name": "FERMENTO QUÍMICO",
-      "ok": true,
-      "count": 1,
-      "price": 5.59,
-      "modifiedAt": 1794064501137
     },
     {
       "id": "6ed6d1ad-76c4-4b40-9aca-84596053a92f",
@@ -106,148 +42,12 @@
       "modifiedAt": 1794048273082
     },
     {
-      "id": "73bedc0e-f5ea-4d75-bff2-f78e53795879",
-      "name": "GELEIA",
-      "ok": true,
-      "count": 1,
-      "price": 18,
-      "modifiedAt": 1794065091685
-    },
-    {
-      "id": "c0901bd5-eef1-4024-80f7-137802224500",
-      "name": "GUARDANAPO",
-      "ok": true,
-      "count": 1,
-      "price": 2.09,
-      "modifiedAt": 1794063080984
-    },
-    {
       "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
       "name": "IOGURTE",
       "ok": false,
       "count": 4,
       "price": 0,
       "modifiedAt": 1794048112561
-    },
-    {
-      "id": "41a9e1db-e9a2-463c-b861-8447cbdc044c",
-      "name": "KETCHUP",
-      "ok": true,
-      "count": 1,
-      "price": 16,
-      "modifiedAt": 1794063688439
-    },
-    {
-      "id": "784a8e4e-fb3c-48f2-97ee-daa6721b84f2",
-      "name": "LEITE CONDENSADO",
-      "ok": true,
-      "count": 2,
-      "price": 3.99,
-      "modifiedAt": 1794064222643
-    },
-    {
-      "id": "591465da-5222-43c3-96a6-5c93fffdaa82",
-      "name": "LENTILHA",
-      "ok": true,
-      "count": 1,
-      "price": 7,
-      "modifiedAt": 1794063874262
-    },
-    {
-      "id": "3cc68de8-ab91-414a-932e-6ce0e54e0142",
-      "name": "MAIONESE",
-      "ok": true,
-      "count": 2,
-      "price": 7.59,
-      "modifiedAt": 1794063850490
-    },
-    {
-      "id": "e111a93c-612d-493e-8062-80d1887dff70",
-      "name": "MANTEIGA",
-      "ok": true,
-      "count": 1,
-      "price": 8.29,
-      "modifiedAt": 1794065785161
-    },
-    {
-      "id": "5aa02a42-abab-4a2a-a9fd-0cf4701a1f76",
-      "name": "MASA LASANHA",
-      "ok": true,
-      "count": 1,
-      "price": 9,
-      "modifiedAt": 1794063954679
-    },
-    {
-      "id": "9c0df66e-6612-40dc-936b-780d7fa4e3aa",
-      "name": "MASSA",
-      "ok": true,
-      "count": 1,
-      "price": 4.29,
-      "modifiedAt": 1794064066097
-    },
-    {
-      "id": "ca0adff0-b44b-42bf-bf22-af81207845b8",
-      "name": "MASSA PASTEL",
-      "ok": true,
-      "count": 1,
-      "price": 10,
-      "modifiedAt": 1794065990617
-    },
-    {
-      "id": "a5625810-cdeb-4169-ab00-354b81e2dfd6",
-      "name": "MILHO",
-      "ok": true,
-      "count": 2,
-      "price": 3.79,
-      "modifiedAt": 1794064155063
-    },
-    {
-      "id": "768a4739-d642-4737-8559-bbe9363e4333",
-      "name": "MOSTARDA",
-      "ok": true,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794063835105
-    },
-    {
-      "id": "9d4ecad7-65a6-424a-9e6b-18e7ed3b9916",
-      "name": "NESCAU",
-      "ok": true,
-      "count": 1,
-      "price": 17,
-      "modifiedAt": 1794064617893
-    },
-    {
-      "id": "7b3558ba-57a5-4884-a87b-e0bb59004c30",
-      "name": "PALITO DE DENTE",
-      "ok": true,
-      "count": 1,
-      "price": 1.89,
-      "modifiedAt": 1794063491710
-    },
-    {
-      "id": "64e025a3-7c7e-4a7a-88fe-ae72fb9d9140",
-      "name": "PAPEL ALUMÍNIO",
-      "ok": true,
-      "count": 1,
-      "price": 6.49,
-      "modifiedAt": 1794063033436
-    },
-    {
-      "id": "5efd6f47-a97f-4ba1-8513-589bffc6c88f",
-      "name": "PAPEL TOALHA",
-      "ok": true,
-      "count": 1,
-      "price": 4.49,
-      "modifiedAt": 1794063068371
-    },
-    {
-      "id": "ff5d04fe-5c31-427a-8cac-e60c0a0af1c5",
-      "name": "PASTA DE DENTE",
-      "ok": true,
-      "count": 1,
-      "price": 22.9,
-      "modifiedAt": 1794062424990
     },
     {
       "id": "177bea74-f97a-4ef4-8c8a-c371e6b047ae",
@@ -288,14 +88,6 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1794048231291
-    },
-    {
-      "id": "f681e262-4565-4795-b18e-5665d8e3c863",
-      "name": "QUEIJO",
-      "ok": true,
-      "count": 2,
-      "price": 36.9,
-      "modifiedAt": 1794065895941
     },
     {
       "id": "bddf77b2-8357-41d4-9db9-c39dad8e4ab1",
@@ -498,6 +290,110 @@
     {
       "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
       "modifiedAt": 1794067966590
+    },
+    {
+      "id": "ce98c6e3-cf8c-41cc-b0c0-b633e811bad5",
+      "modifiedAt": 1794067987746
+    },
+    {
+      "id": "1ab1f333-0c28-4861-b8ba-6b1fba10d3e1",
+      "modifiedAt": 1794067989747
+    },
+    {
+      "id": "76d9eda7-7127-4911-a607-7e7486c35298",
+      "modifiedAt": 1794067990924
+    },
+    {
+      "id": "a89f9ce0-bacf-4042-9543-2a578072a42e",
+      "modifiedAt": 1794067992365
+    },
+    {
+      "id": "bc7f196a-864f-4683-8f5a-baf700c31ce8",
+      "modifiedAt": 1794067993775
+    },
+    {
+      "id": "41e59bad-4803-453f-add0-86e99184c4e9",
+      "modifiedAt": 1794067996042
+    },
+    {
+      "id": "df460f6f-83b0-4128-a968-1e7d3a6e0a65",
+      "modifiedAt": 1794067997675
+    },
+    {
+      "id": "0c79693a-bcc7-4227-8d2a-d32532cda003",
+      "modifiedAt": 1794067999078
+    },
+    {
+      "id": "73bedc0e-f5ea-4d75-bff2-f78e53795879",
+      "modifiedAt": 1794068001835
+    },
+    {
+      "id": "c0901bd5-eef1-4024-80f7-137802224500",
+      "modifiedAt": 1794068003126
+    },
+    {
+      "id": "41a9e1db-e9a2-463c-b861-8447cbdc044c",
+      "modifiedAt": 1794068005093
+    },
+    {
+      "id": "784a8e4e-fb3c-48f2-97ee-daa6721b84f2",
+      "modifiedAt": 1794068006964
+    },
+    {
+      "id": "591465da-5222-43c3-96a6-5c93fffdaa82",
+      "modifiedAt": 1794068008303
+    },
+    {
+      "id": "3cc68de8-ab91-414a-932e-6ce0e54e0142",
+      "modifiedAt": 1794068009696
+    },
+    {
+      "id": "e111a93c-612d-493e-8062-80d1887dff70",
+      "modifiedAt": 1794068010881
+    },
+    {
+      "id": "5aa02a42-abab-4a2a-a9fd-0cf4701a1f76",
+      "modifiedAt": 1794068012151
+    },
+    {
+      "id": "9c0df66e-6612-40dc-936b-780d7fa4e3aa",
+      "modifiedAt": 1794068013358
+    },
+    {
+      "id": "ca0adff0-b44b-42bf-bf22-af81207845b8",
+      "modifiedAt": 1794068014689
+    },
+    {
+      "id": "a5625810-cdeb-4169-ab00-354b81e2dfd6",
+      "modifiedAt": 1794068015859
+    },
+    {
+      "id": "768a4739-d642-4737-8559-bbe9363e4333",
+      "modifiedAt": 1794068017013
+    },
+    {
+      "id": "9d4ecad7-65a6-424a-9e6b-18e7ed3b9916",
+      "modifiedAt": 1794068018253
+    },
+    {
+      "id": "7b3558ba-57a5-4884-a87b-e0bb59004c30",
+      "modifiedAt": 1794068019505
+    },
+    {
+      "id": "64e025a3-7c7e-4a7a-88fe-ae72fb9d9140",
+      "modifiedAt": 1794068020743
+    },
+    {
+      "id": "5efd6f47-a97f-4ba1-8513-589bffc6c88f",
+      "modifiedAt": 1794068021919
+    },
+    {
+      "id": "ff5d04fe-5c31-427a-8cac-e60c0a0af1c5",
+      "modifiedAt": 1794068023089
+    },
+    {
+      "id": "f681e262-4565-4795-b18e-5665d8e3c863",
+      "modifiedAt": 1794068028405
     }
   ]
 }
