@@ -82,6 +82,14 @@
       "modifiedAt": 1794048051806
     },
     {
+      "id": "087d7130-a312-44fc-b4a2-cd91372e5c93",
+      "name": "CREME HIDRATANTE",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794048994298
+    },
+    {
       "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
       "name": "DESINFETANTE",
       "ok": false,
@@ -248,6 +256,14 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1794048944094
+    },
+    {
+      "id": "ff5d04fe-5c31-427a-8cac-e60c0a0af1c5",
+      "name": "PASTA DE DENTE",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794048987250
     },
     {
       "id": "177bea74-f97a-4ef4-8c8a-c371e6b047ae",
