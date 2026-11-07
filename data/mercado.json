@@ -50,20 +50,12 @@
       "modifiedAt": 1794048174362
     },
     {
-      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
-      "name": "ovos",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1793880041537
-    },
-    {
       "id": "5fd098eb-5904-4b79-910b-4e8e692d8425",
       "name": "pão sanduíche",
       "ok": false,
       "count": 1,
       "price": 0,
-      "modifiedAt": 1793740322375
+      "modifiedAt": 1794048231291
     },
     {
       "id": "f681e262-4565-4795-b18e-5665d8e3c863",
@@ -162,6 +154,10 @@
     {
       "id": "20a164f7-486b-457a-a286-216313051329",
       "modifiedAt": 1794048216422
+    },
+    {
+      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
+      "modifiedAt": 1794048236168
     }
   ]
 }
