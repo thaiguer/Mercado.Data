@@ -20,10 +20,10 @@
     {
       "id": "e673a6ee-6bd0-4311-a1ab-e9019555990a",
       "name": "CEBOLA",
-      "ok": false,
+      "ok": true,
       "count": 5,
       "price": 0,
-      "modifiedAt": 1794048165728
+      "modifiedAt": 1794070695874
     },
     {
       "id": "6ec4ca1a-d3ea-47c8-bb0f-3b0d7f4aed9e",
