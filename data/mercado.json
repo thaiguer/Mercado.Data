@@ -2,14 +2,6 @@
   "schemaVersion": 1,
   "items": [
     {
-      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
-      "name": "cebola",
-      "ok": false,
-      "count": 3,
-      "price": 0,
-      "modifiedAt": 1793725802660
-    },
-    {
       "id": "5eded5fa-a033-4a83-93cb-f7517e0c2f80",
       "name": "CREME DE LEITE",
       "ok": false,
@@ -146,6 +138,10 @@
     {
       "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
       "modifiedAt": 1793905984530
+    },
+    {
+      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
+      "modifiedAt": 1794048155992
     }
   ]
 }
