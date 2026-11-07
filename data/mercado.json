@@ -442,14 +442,6 @@
       "modifiedAt": 1794048966057
     },
     {
-      "id": "585bf46d-4d90-4ab6-9460-173b8d07ee84",
-      "name": "água",
-      "ok": false,
-      "count": 12,
-      "price": 0,
-      "modifiedAt": 1794062052942
-    },
-    {
       "id": "0abfe28d-6678-44f3-ab12-21a87936fbb7",
       "name": "ÁGUA COM GÁS",
       "ok": false,
@@ -518,6 +510,10 @@
     {
       "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
       "modifiedAt": 1794048236168
+    },
+    {
+      "id": "585bf46d-4d90-4ab6-9460-173b8d07ee84",
+      "modifiedAt": 1794062117438
     }
   ]
 }
