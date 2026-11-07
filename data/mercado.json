@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "82484da0-5be3-4ce4-9d4b-758d3087dea2",
+      "name": "CALABRESA",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794048342388
+    },
+    {
       "id": "e673a6ee-6bd0-4311-a1ab-e9019555990a",
       "name": "CEBOLA",
       "ok": false,
