@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "c2389e8f-5ada-4900-b3ee-f8e720f067e7",
+      "name": "absorvente",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794062182295
+    },
+    {
       "id": "b9f71f98-1428-4a68-b92e-2acb9aa6cc57",
       "name": "ALHO",
       "ok": false,
