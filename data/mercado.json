@@ -90,14 +90,6 @@
       "modifiedAt": 1794048231291
     },
     {
-      "id": "bddf77b2-8357-41d4-9db9-c39dad8e4ab1",
-      "name": "ração Talia",
-      "ok": true,
-      "count": 1,
-      "price": 59.9,
-      "modifiedAt": 1794063408546
-    },
-    {
       "id": "b896521b-00f3-4826-9e58-bf50028c24ec",
       "name": "REPOLHO",
       "ok": false,
@@ -106,60 +98,12 @@
       "modifiedAt": 1794048185320
     },
     {
-      "id": "d20af635-0232-4972-b9f6-32fecc9f26a9",
-      "name": "REQUEIJÃO",
-      "ok": true,
-      "count": 2,
-      "price": 13.99,
-      "modifiedAt": 1794065755786
-    },
-    {
-      "id": "6dbb1228-a37c-4c28-ae73-67a4c641b64d",
-      "name": "SABONETE",
-      "ok": true,
-      "count": 1,
-      "price": 9.9,
-      "modifiedAt": 1794062353312
-    },
-    {
-      "id": "f5bc2b71-7fe6-4225-87ca-4d8af0b0a36a",
-      "name": "SABÃO LÍQUIDO OMO",
-      "ok": true,
-      "count": 1,
-      "price": 11,
-      "modifiedAt": 1794062770506
-    },
-    {
-      "id": "6659d017-93c8-41a3-bf9c-f96484f84711",
-      "name": "SALGADINHO",
-      "ok": true,
-      "count": 2,
-      "price": 15.3,
-      "modifiedAt": 1794065057824
-    },
-    {
       "id": "fcfa48a1-403a-4efd-a5f5-476f39f3fe45",
       "name": "SALSICHÃO",
       "ok": false,
       "count": 2,
       "price": 0,
       "modifiedAt": 1794047997215
-    },
-    {
-      "id": "53135904-2e47-4343-aa97-bcf8a09369f7",
-      "name": "SHAMPOO DANI E THAIGUER",
-      "ok": true,
-      "count": 1,
-      "price": 25.9,
-      "modifiedAt": 1794062521411
-    },
-    {
-      "id": "0abfe28d-6678-44f3-ab12-21a87936fbb7",
-      "name": "ÁGUA COM GÁS",
-      "ok": true,
-      "count": 12,
-      "price": 0.85,
-      "modifiedAt": 1794062238092
     }
   ],
   "deleted": [
@@ -394,6 +338,34 @@
     {
       "id": "f681e262-4565-4795-b18e-5665d8e3c863",
       "modifiedAt": 1794068028405
+    },
+    {
+      "id": "bddf77b2-8357-41d4-9db9-c39dad8e4ab1",
+      "modifiedAt": 1794068029969
+    },
+    {
+      "id": "d20af635-0232-4972-b9f6-32fecc9f26a9",
+      "modifiedAt": 1794068031726
+    },
+    {
+      "id": "6dbb1228-a37c-4c28-ae73-67a4c641b64d",
+      "modifiedAt": 1794068033812
+    },
+    {
+      "id": "f5bc2b71-7fe6-4225-87ca-4d8af0b0a36a",
+      "modifiedAt": 1794068034978
+    },
+    {
+      "id": "6659d017-93c8-41a3-bf9c-f96484f84711",
+      "modifiedAt": 1794068037146
+    },
+    {
+      "id": "53135904-2e47-4343-aa97-bcf8a09369f7",
+      "modifiedAt": 1794068039245
+    },
+    {
+      "id": "0abfe28d-6678-44f3-ab12-21a87936fbb7",
+      "modifiedAt": 1794068041448
     }
   ]
 }
