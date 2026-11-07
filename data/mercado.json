@@ -82,6 +82,14 @@
       "modifiedAt": 1794048051806
     },
     {
+      "id": "ce98c6e3-cf8c-41cc-b0c0-b633e811bad5",
+      "name": "DETERGENTE",
+      "ok": false,
+      "count": 5,
+      "price": 0,
+      "modifiedAt": 1794048861465
+    },
+    {
       "id": "1ab1f333-0c28-4861-b8ba-6b1fba10d3e1",
       "name": "DOCE DE LEITE",
       "ok": false,
