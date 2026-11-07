@@ -50,14 +50,6 @@
       "modifiedAt": 1794048273082
     },
     {
-      "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
-      "name": "IOGURTE",
-      "ok": false,
-      "count": 4,
-      "price": 0,
-      "modifiedAt": 1794048112561
-    },
-    {
       "id": "07e6966a-a142-4c6d-a641-7a5bed9fae7b",
       "name": "LANCHE MILENA",
       "ok": false,
@@ -382,6 +374,10 @@
     {
       "id": "0abfe28d-6678-44f3-ab12-21a87936fbb7",
       "modifiedAt": 1794068041448
+    },
+    {
+      "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
+      "modifiedAt": 1794070478444
     }
   ]
 }
