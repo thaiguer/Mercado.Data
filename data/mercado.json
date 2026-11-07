@@ -258,12 +258,28 @@
       "modifiedAt": 1794048515677
     },
     {
+      "id": "64e025a3-7c7e-4a7a-88fe-ae72fb9d9140",
+      "name": "PAPEL ALUMÍNIO",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794049054712
+    },
+    {
       "id": "99ec83aa-7609-4b3a-b43c-8aa88bd0f427",
       "name": "PAPEL HIGIÊNICO",
       "ok": false,
       "count": 1,
       "price": 0,
       "modifiedAt": 1794048944094
+    },
+    {
+      "id": "5efd6f47-a97f-4ba1-8513-589bffc6c88f",
+      "name": "PAPEL TOALHA",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794049048443
     },
     {
       "id": "ff5d04fe-5c31-427a-8cac-e60c0a0af1c5",
