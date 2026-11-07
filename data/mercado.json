@@ -48,6 +48,14 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1793880037356
+    },
+    {
+      "id": "fcfa48a1-403a-4efd-a5f5-476f39f3fe45",
+      "name": "SALSICHÃO",
+      "ok": false,
+      "count": 2,
+      "price": 0,
+      "modifiedAt": 1794047997215
     }
   ],
   "deleted": [
