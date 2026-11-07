@@ -66,6 +66,14 @@
       "modifiedAt": 1794048797835
     },
     {
+      "id": "e59c3827-56c7-41c7-896c-6ae3f728a308",
+      "name": "CHOCOLATE COMER",
+      "ok": false,
+      "count": 2,
+      "price": 0,
+      "modifiedAt": 1794048807980
+    },
+    {
       "id": "5eded5fa-a033-4a83-93cb-f7517e0c2f80",
       "name": "CREME DE LEITE",
       "ok": false,
