@@ -10,68 +10,12 @@
       "modifiedAt": 1794049149666
     },
     {
-      "id": "82484da0-5be3-4ce4-9d4b-758d3087dea2",
-      "name": "CALABRESA",
-      "ok": true,
-      "count": 1,
-      "price": 13.9,
-      "modifiedAt": 1794065571697
-    },
-    {
       "id": "e673a6ee-6bd0-4311-a1ab-e9019555990a",
       "name": "CEBOLA",
       "ok": false,
       "count": 5,
       "price": 0,
       "modifiedAt": 1794048165728
-    },
-    {
-      "id": "12c94be1-f607-4449-92bb-eea109501349",
-      "name": "CHOCLATE AO LEITE RECEITAS",
-      "ok": true,
-      "count": 2,
-      "price": 5.5,
-      "modifiedAt": 1794064855496
-    },
-    {
-      "id": "e59c3827-56c7-41c7-896c-6ae3f728a308",
-      "name": "CHOCOLATE COMER",
-      "ok": true,
-      "count": 2,
-      "price": 11,
-      "modifiedAt": 1794064829956
-    },
-    {
-      "id": "5eded5fa-a033-4a83-93cb-f7517e0c2f80",
-      "name": "CREME DE LEITE",
-      "ok": true,
-      "count": 2,
-      "price": 2.89,
-      "modifiedAt": 1794064271401
-    },
-    {
-      "id": "087d7130-a312-44fc-b4a2-cd91372e5c93",
-      "name": "CREME HIDRATANTE",
-      "ok": true,
-      "count": 1,
-      "price": 22.9,
-      "modifiedAt": 1794062575937
-    },
-    {
-      "id": "be162159-2504-4602-9c93-0a67614f76b6",
-      "name": "cápsula café",
-      "ok": true,
-      "count": 1,
-      "price": 15,
-      "modifiedAt": 1794064464011
-    },
-    {
-      "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
-      "name": "DESINFETANTE",
-      "ok": true,
-      "count": 1,
-      "price": 15.9,
-      "modifiedAt": 1794062891486
     },
     {
       "id": "ce98c6e3-cf8c-41cc-b0c0-b633e811bad5",
@@ -526,6 +470,34 @@
     {
       "id": "d445d6cc-3601-47b4-8611-5c342c405008",
       "modifiedAt": 1794067935225
+    },
+    {
+      "id": "82484da0-5be3-4ce4-9d4b-758d3087dea2",
+      "modifiedAt": 1794067957285
+    },
+    {
+      "id": "12c94be1-f607-4449-92bb-eea109501349",
+      "modifiedAt": 1794067960176
+    },
+    {
+      "id": "e59c3827-56c7-41c7-896c-6ae3f728a308",
+      "modifiedAt": 1794067961543
+    },
+    {
+      "id": "5eded5fa-a033-4a83-93cb-f7517e0c2f80",
+      "modifiedAt": 1794067962783
+    },
+    {
+      "id": "087d7130-a312-44fc-b4a2-cd91372e5c93",
+      "modifiedAt": 1794067963990
+    },
+    {
+      "id": "be162159-2504-4602-9c93-0a67614f76b6",
+      "modifiedAt": 1794067965145
+    },
+    {
+      "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
+      "modifiedAt": 1794067966590
     }
   ]
 }
