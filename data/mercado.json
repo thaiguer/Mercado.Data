@@ -454,50 +454,22 @@
       "name": "ÁGUA COM GÁS",
       "ok": false,
       "count": 12,
-      "price": 0,
-      "modifiedAt": 1794048842243
+      "price": 0.85,
+      "modifiedAt": 1794062100030
     }
   ],
   "deleted": [
     {
-      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
-      "modifiedAt": 1794048155992
-    },
-    {
-      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
-      "modifiedAt": 1794048236168
-    },
-    {
-      "id": "20a164f7-486b-457a-a286-216313051329",
-      "modifiedAt": 1794048216422
-    },
-    {
-      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
-      "modifiedAt": 1793905982791
-    },
-    {
-      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
-      "modifiedAt": 1793905984530
-    },
-    {
-      "id": "sample-rice",
-      "modifiedAt": 1793657057978
+      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
+      "modifiedAt": 1793657047477
     },
     {
       "id": "sample-beans",
       "modifiedAt": 1793657048990
     },
     {
-      "id": "sample-milk",
-      "modifiedAt": 1793657056675
-    },
-    {
       "id": "sample-bread",
       "modifiedAt": 1793657050370
-    },
-    {
-      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
-      "modifiedAt": 1793657047477
     },
     {
       "id": "c0bcffeb-9739-43d3-8254-02db75239170",
@@ -512,12 +484,40 @@
       "modifiedAt": 1793657055210
     },
     {
+      "id": "sample-milk",
+      "modifiedAt": 1793657056675
+    },
+    {
+      "id": "sample-rice",
+      "modifiedAt": 1793657057978
+    },
+    {
       "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
       "modifiedAt": 1793657076838
     },
     {
       "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
       "modifiedAt": 1793880002921
+    },
+    {
+      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
+      "modifiedAt": 1793905982791
+    },
+    {
+      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
+      "modifiedAt": 1793905984530
+    },
+    {
+      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
+      "modifiedAt": 1794048155992
+    },
+    {
+      "id": "20a164f7-486b-457a-a286-216313051329",
+      "modifiedAt": 1794048216422
+    },
+    {
+      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
+      "modifiedAt": 1794048236168
     }
   ]
 }
