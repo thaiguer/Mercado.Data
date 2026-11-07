@@ -26,6 +26,14 @@
       "modifiedAt": 1794047969646
     },
     {
+      "id": "0c209a34-f521-43b6-ac61-ed759153c5e3",
+      "name": "FRUTAS",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794048273082
+    },
+    {
       "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
       "name": "IOGURTE",
       "ok": false,
