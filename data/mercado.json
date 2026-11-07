@@ -4,10 +4,10 @@
     {
       "id": "b9f71f98-1428-4a68-b92e-2acb9aa6cc57",
       "name": "ALHO",
-      "ok": false,
+      "ok": true,
       "count": 1,
       "price": 0,
-      "modifiedAt": 1794049149666
+      "modifiedAt": 1794070996709
     },
     {
       "id": "a7fcf16e-4022-40ae-ad24-7730d048b1ca",
@@ -36,18 +36,18 @@
     {
       "id": "6ed6d1ad-76c4-4b40-9aca-84596053a92f",
       "name": "FRANGO SASSAMI",
-      "ok": false,
+      "ok": true,
       "count": 3,
       "price": 0,
-      "modifiedAt": 1794047969646
+      "modifiedAt": 1794070999418
     },
     {
       "id": "0c209a34-f521-43b6-ac61-ed759153c5e3",
       "name": "FRUTAS",
-      "ok": false,
+      "ok": true,
       "count": 1,
       "price": 0,
-      "modifiedAt": 1794048273082
+      "modifiedAt": 1794071000493
     },
     {
       "id": "07e6966a-a142-4c6d-a641-7a5bed9fae7b",
