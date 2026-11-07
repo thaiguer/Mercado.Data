@@ -84,10 +84,10 @@
     {
       "id": "b896521b-00f3-4826-9e58-bf50028c24ec",
       "name": "REPOLHO",
-      "ok": false,
+      "ok": true,
       "count": 1,
-      "price": 0,
-      "modifiedAt": 1794048185320
+      "price": 13,
+      "modifiedAt": 1794070607287
     },
     {
       "id": "fcfa48a1-403a-4efd-a5f5-476f39f3fe45",
