@@ -18,6 +18,14 @@
       "modifiedAt": 1794171551569
     },
     {
+      "id": "8b94e507-674e-4f04-b594-57b9b105ef8b",
+      "name": "banana",
+      "ok": false,
+      "count": 1,
+      "price": 2.5,
+      "modifiedAt": 1794176143308
+    },
+    {
       "id": "a7fcf16e-4022-40ae-ad24-7730d048b1ca",
       "name": "BEBIDA MILENA",
       "ok": false,
@@ -108,6 +116,90 @@
   ],
   "deleted": [
     {
+      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
+      "modifiedAt": 1793657047477
+    },
+    {
+      "id": "sample-beans",
+      "modifiedAt": 1793657048990
+    },
+    {
+      "id": "sample-bread",
+      "modifiedAt": 1793657050370
+    },
+    {
+      "id": "c0bcffeb-9739-43d3-8254-02db75239170",
+      "modifiedAt": 1793657051830
+    },
+    {
+      "id": "b2e2b3e9-9f54-462b-95dc-bb5324830e2d",
+      "modifiedAt": 1793657053087
+    },
+    {
+      "id": "bd7009ac-55b7-4856-8cd0-2f7af1d07ea2",
+      "modifiedAt": 1793657055210
+    },
+    {
+      "id": "sample-milk",
+      "modifiedAt": 1793657056675
+    },
+    {
+      "id": "sample-rice",
+      "modifiedAt": 1793657057978
+    },
+    {
+      "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
+      "modifiedAt": 1793657076838
+    },
+    {
+      "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
+      "modifiedAt": 1793880002921
+    },
+    {
+      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
+      "modifiedAt": 1793905982791
+    },
+    {
+      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
+      "modifiedAt": 1793905984530
+    },
+    {
+      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
+      "modifiedAt": 1794048155992
+    },
+    {
+      "id": "20a164f7-486b-457a-a286-216313051329",
+      "modifiedAt": 1794048216422
+    },
+    {
+      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
+      "modifiedAt": 1794048236168
+    },
+    {
+      "id": "585bf46d-4d90-4ab6-9460-173b8d07ee84",
+      "modifiedAt": 1794062117438
+    },
+    {
+      "id": "092dd19a-f924-4639-9b05-7cdca0b9ef2d",
+      "modifiedAt": 1794062667294
+    },
+    {
+      "id": "99ec83aa-7609-4b3a-b43c-8aa88bd0f427",
+      "modifiedAt": 1794062996314
+    },
+    {
+      "id": "ab11916d-7a8d-4f48-96c7-1bcbce5e02fe",
+      "modifiedAt": 1794065158280
+    },
+    {
+      "id": "1f04a791-c56a-46b5-8a48-0d7c21713e25",
+      "modifiedAt": 1794065165448
+    },
+    {
+      "id": "cfa4ba89-a40d-42ae-91ed-3ae2f0bd6cbe",
+      "modifiedAt": 1794065168597
+    },
+    {
       "id": "c2389e8f-5ada-4900-b3ee-f8e720f067e7",
       "modifiedAt": 1794067928699
     },
@@ -120,16 +212,8 @@
       "modifiedAt": 1794067933621
     },
     {
-      "id": "cfa4ba89-a40d-42ae-91ed-3ae2f0bd6cbe",
-      "modifiedAt": 1794065168597
-    },
-    {
       "id": "d445d6cc-3601-47b4-8611-5c342c405008",
       "modifiedAt": 1794067935225
-    },
-    {
-      "id": "1f04a791-c56a-46b5-8a48-0d7c21713e25",
-      "modifiedAt": 1794065165448
     },
     {
       "id": "82484da0-5be3-4ce4-9d4b-758d3087dea2",
@@ -144,10 +228,6 @@
       "modifiedAt": 1794067961543
     },
     {
-      "id": "ab11916d-7a8d-4f48-96c7-1bcbce5e02fe",
-      "modifiedAt": 1794065158280
-    },
-    {
       "id": "5eded5fa-a033-4a83-93cb-f7517e0c2f80",
       "modifiedAt": 1794067962783
     },
@@ -156,12 +236,12 @@
       "modifiedAt": 1794067963990
     },
     {
-      "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
-      "modifiedAt": 1794067966590
+      "id": "be162159-2504-4602-9c93-0a67614f76b6",
+      "modifiedAt": 1794067965145
     },
     {
-      "id": "092dd19a-f924-4639-9b05-7cdca0b9ef2d",
-      "modifiedAt": 1794062667294
+      "id": "2eb874a9-8243-4811-a976-921f76d27c0e",
+      "modifiedAt": 1794067966590
     },
     {
       "id": "ce98c6e3-cf8c-41cc-b0c0-b633e811bad5",
@@ -184,6 +264,10 @@
       "modifiedAt": 1794067993775
     },
     {
+      "id": "41e59bad-4803-453f-add0-86e99184c4e9",
+      "modifiedAt": 1794067996042
+    },
+    {
       "id": "df460f6f-83b0-4128-a968-1e7d3a6e0a65",
       "modifiedAt": 1794067997675
     },
@@ -192,12 +276,12 @@
       "modifiedAt": 1794067999078
     },
     {
-      "id": "c0901bd5-eef1-4024-80f7-137802224500",
-      "modifiedAt": 1794068003126
+      "id": "73bedc0e-f5ea-4d75-bff2-f78e53795879",
+      "modifiedAt": 1794068001835
     },
     {
-      "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
-      "modifiedAt": 1794070478444
+      "id": "c0901bd5-eef1-4024-80f7-137802224500",
+      "modifiedAt": 1794068003126
     },
     {
       "id": "41a9e1db-e9a2-463c-b861-8447cbdc044c",
@@ -240,6 +324,10 @@
       "modifiedAt": 1794068017013
     },
     {
+      "id": "9d4ecad7-65a6-424a-9e6b-18e7ed3b9916",
+      "modifiedAt": 1794068018253
+    },
+    {
       "id": "7b3558ba-57a5-4884-a87b-e0bb59004c30",
       "modifiedAt": 1794068019505
     },
@@ -248,24 +336,12 @@
       "modifiedAt": 1794068020743
     },
     {
-      "id": "99ec83aa-7609-4b3a-b43c-8aa88bd0f427",
-      "modifiedAt": 1794062996314
-    },
-    {
       "id": "5efd6f47-a97f-4ba1-8513-589bffc6c88f",
       "modifiedAt": 1794068021919
     },
     {
       "id": "ff5d04fe-5c31-427a-8cac-e60c0a0af1c5",
       "modifiedAt": 1794068023089
-    },
-    {
-      "id": "177bea74-f97a-4ef4-8c8a-c371e6b047ae",
-      "modifiedAt": 1794070542318
-    },
-    {
-      "id": "5919c01b-17f8-47c8-86b7-87f8f12d7647",
-      "modifiedAt": 1794070546511
     },
     {
       "id": "f681e262-4565-4795-b18e-5665d8e3c863",
@@ -288,6 +364,10 @@
       "modifiedAt": 1794068034978
     },
     {
+      "id": "6659d017-93c8-41a3-bf9c-f96484f84711",
+      "modifiedAt": 1794068037146
+    },
+    {
       "id": "53135904-2e47-4343-aa97-bcf8a09369f7",
       "modifiedAt": 1794068039245
     },
@@ -296,88 +376,16 @@
       "modifiedAt": 1794068041448
     },
     {
-      "id": "c413c588-7728-422a-a81e-ce7cc185468a",
-      "modifiedAt": 1794048155992
+      "id": "170629da-97e1-4bc0-bde2-3bf8d9f7bd25",
+      "modifiedAt": 1794070478444
     },
     {
-      "id": "f470ade5-cd70-4fe2-8b06-c3353e39210f",
-      "modifiedAt": 1794048236168
+      "id": "177bea74-f97a-4ef4-8c8a-c371e6b047ae",
+      "modifiedAt": 1794070542318
     },
     {
-      "id": "20a164f7-486b-457a-a286-216313051329",
-      "modifiedAt": 1794048216422
-    },
-    {
-      "id": "f0e420d1-a550-4974-9e11-92386fff9c2b",
-      "modifiedAt": 1793905982791
-    },
-    {
-      "id": "476f03fa-9ac7-43b5-ba21-e00500bafac2",
-      "modifiedAt": 1793905984530
-    },
-    {
-      "id": "sample-rice",
-      "modifiedAt": 1793657057978
-    },
-    {
-      "id": "sample-beans",
-      "modifiedAt": 1793657048990
-    },
-    {
-      "id": "sample-milk",
-      "modifiedAt": 1793657056675
-    },
-    {
-      "id": "sample-bread",
-      "modifiedAt": 1793657050370
-    },
-    {
-      "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
-      "modifiedAt": 1793657047477
-    },
-    {
-      "id": "c0bcffeb-9739-43d3-8254-02db75239170",
-      "modifiedAt": 1793657051830
-    },
-    {
-      "id": "b2e2b3e9-9f54-462b-95dc-bb5324830e2d",
-      "modifiedAt": 1793657053087
-    },
-    {
-      "id": "bd7009ac-55b7-4856-8cd0-2f7af1d07ea2",
-      "modifiedAt": 1793657055210
-    },
-    {
-      "id": "b1023099-97c0-42bc-934a-f4f15b28d2e6",
-      "modifiedAt": 1793657076838
-    },
-    {
-      "id": "9a5e54f3-1efb-416d-adea-bdef30035f9a",
-      "modifiedAt": 1793880002921
-    },
-    {
-      "id": "585bf46d-4d90-4ab6-9460-173b8d07ee84",
-      "modifiedAt": 1794062117438
-    },
-    {
-      "id": "be162159-2504-4602-9c93-0a67614f76b6",
-      "modifiedAt": 1794067965145
-    },
-    {
-      "id": "41e59bad-4803-453f-add0-86e99184c4e9",
-      "modifiedAt": 1794067996042
-    },
-    {
-      "id": "73bedc0e-f5ea-4d75-bff2-f78e53795879",
-      "modifiedAt": 1794068001835
-    },
-    {
-      "id": "9d4ecad7-65a6-424a-9e6b-18e7ed3b9916",
-      "modifiedAt": 1794068018253
-    },
-    {
-      "id": "6659d017-93c8-41a3-bf9c-f96484f84711",
-      "modifiedAt": 1794068037146
+      "id": "5919c01b-17f8-47c8-86b7-87f8f12d7647",
+      "modifiedAt": 1794070546511
     }
   ]
 }
