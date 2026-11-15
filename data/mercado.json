@@ -8,6 +8,14 @@
       "count": 1,
       "price": 0,
       "modifiedAt": 1794740293183
+    },
+    {
+      "id": "a2e4c35c-f8ab-465c-bb75-fe7ae0af4585",
+      "name": "SORVETE DE FLOCOS",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794740312852
     }
   ],
   "deleted": [
