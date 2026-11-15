@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "a13b6025-2171-4119-b87d-de183954babe",
+      "name": "BANANA",
+      "ok": false,
+      "count": 1,
+      "price": 0,
+      "modifiedAt": 1794740323406
+    },
+    {
       "id": "2a547b87-bcee-4ae9-a1bd-05f5636c5942",
       "name": "CARVÃO",
       "ok": false,
