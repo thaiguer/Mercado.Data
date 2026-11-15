@@ -1,119 +1,6 @@
 {
   "schemaVersion": 1,
-  "items": [
-    {
-      "id": "b9f71f98-1428-4a68-b92e-2acb9aa6cc57",
-      "name": "ALHO",
-      "ok": true,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794175918477
-    },
-    {
-      "id": "43bea45c-2ca2-4464-a510-3cf8b8956c8b",
-      "name": "asdas",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794171551569
-    },
-    {
-      "id": "8b94e507-674e-4f04-b594-57b9b105ef8b",
-      "name": "banana",
-      "ok": false,
-      "count": 1,
-      "price": 2.5,
-      "modifiedAt": 1794176143308
-    },
-    {
-      "id": "a7fcf16e-4022-40ae-ad24-7730d048b1ca",
-      "name": "BEBIDA MILENA",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794068060780
-    },
-    {
-      "id": "e673a6ee-6bd0-4311-a1ab-e9019555990a",
-      "name": "CEBOLA",
-      "ok": true,
-      "count": 5,
-      "price": 0,
-      "modifiedAt": 1794070695874
-    },
-    {
-      "id": "6ec4ca1a-d3ea-47c8-bb0f-3b0d7f4aed9e",
-      "name": "FARINHA",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794048360319
-    },
-    {
-      "id": "6ed6d1ad-76c4-4b40-9aca-84596053a92f",
-      "name": "FRANGO SASSAMI",
-      "ok": true,
-      "count": 3,
-      "price": 0,
-      "modifiedAt": 1794070999418
-    },
-    {
-      "id": "0c209a34-f521-43b6-ac61-ed759153c5e3",
-      "name": "FRUTAS",
-      "ok": true,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794071000493
-    },
-    {
-      "id": "07e6966a-a142-4c6d-a641-7a5bed9fae7b",
-      "name": "LANCHE MILENA",
-      "ok": false,
-      "count": 2,
-      "price": 2.89,
-      "modifiedAt": 1794070512118
-    },
-    {
-      "id": "a454abb5-8021-4383-a48b-f6d630869437",
-      "name": "PÁPRICA DOCE",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794048449410
-    },
-    {
-      "id": "c04a483e-dcf8-432f-a04a-84bcdf9daa4c",
-      "name": "PÃO DE QUEIJO",
-      "ok": false,
-      "count": 1,
-      "price": 0,
-      "modifiedAt": 1794048600859
-    },
-    {
-      "id": "5fd098eb-5904-4b79-910b-4e8e692d8425",
-      "name": "pão sanduíche",
-      "ok": true,
-      "count": 1,
-      "price": 10,
-      "modifiedAt": 1794070447108
-    },
-    {
-      "id": "b896521b-00f3-4826-9e58-bf50028c24ec",
-      "name": "REPOLHO",
-      "ok": true,
-      "count": 1,
-      "price": 13,
-      "modifiedAt": 1794070607287
-    },
-    {
-      "id": "fcfa48a1-403a-4efd-a5f5-476f39f3fe45",
-      "name": "SALSICHÃO",
-      "ok": false,
-      "count": 2,
-      "price": 0,
-      "modifiedAt": 1794047997215
-    }
-  ],
+  "items": [],
   "deleted": [
     {
       "id": "63d67601-b24e-4e0d-8a74-1c903a02ed5e",
@@ -386,6 +273,62 @@
     {
       "id": "5919c01b-17f8-47c8-86b7-87f8f12d7647",
       "modifiedAt": 1794070546511
+    },
+    {
+      "id": "8b94e507-674e-4f04-b594-57b9b105ef8b",
+      "modifiedAt": 1794176152756
+    },
+    {
+      "id": "b9f71f98-1428-4a68-b92e-2acb9aa6cc57",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "e673a6ee-6bd0-4311-a1ab-e9019555990a",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "6ed6d1ad-76c4-4b40-9aca-84596053a92f",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "0c209a34-f521-43b6-ac61-ed759153c5e3",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "5fd098eb-5904-4b79-910b-4e8e692d8425",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "b896521b-00f3-4826-9e58-bf50028c24ec",
+      "modifiedAt": 1794740265205
+    },
+    {
+      "id": "43bea45c-2ca2-4464-a510-3cf8b8956c8b",
+      "modifiedAt": 1794740270028
+    },
+    {
+      "id": "a7fcf16e-4022-40ae-ad24-7730d048b1ca",
+      "modifiedAt": 1794740281062
+    },
+    {
+      "id": "6ec4ca1a-d3ea-47c8-bb0f-3b0d7f4aed9e",
+      "modifiedAt": 1794740281062
+    },
+    {
+      "id": "07e6966a-a142-4c6d-a641-7a5bed9fae7b",
+      "modifiedAt": 1794740281062
+    },
+    {
+      "id": "a454abb5-8021-4383-a48b-f6d630869437",
+      "modifiedAt": 1794740281062
+    },
+    {
+      "id": "c04a483e-dcf8-432f-a04a-84bcdf9daa4c",
+      "modifiedAt": 1794740281062
+    },
+    {
+      "id": "fcfa48a1-403a-4efd-a5f5-476f39f3fe45",
+      "modifiedAt": 1794740281062
     }
   ]
 }
